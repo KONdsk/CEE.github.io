@@ -7,9 +7,12 @@
 ![主线](main.png)
 
 ## 情报来源
->1. <font color="green">[江苏教育厅](http://jyt.jiangsu.gov.cn/art/2021/12/3/art_58320_10160490.html)</font>
->2. <font color="green">[知乎政策解读](https://zhuanlan.zhihu.com/p/435365336)</font>
->3. 夸克高考
+[江苏教育厅](http://jyt.jiangsu.gov.cn/art/2021/12/3/art_58320_10160490.html)
+
+[知乎政策解读](https://zhuanlan.zhihu.com/p/435365336)
+
+夸克高考
+
 ---
 # 一.填志愿
 
